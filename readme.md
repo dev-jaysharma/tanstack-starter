@@ -27,7 +27,7 @@ pnpm install
 yarn install
 ```
 
-### START The Developement Server
+### 🌐 START The Developement Server
 ```bash
 pnpm dev
 ```
